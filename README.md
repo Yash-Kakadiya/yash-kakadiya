@@ -8,7 +8,7 @@
 
 - 🧑‍🎓 I’m currently studying at **Darshan University**
 
-- 🌱 I’m currently learning **Data Structure, DBMS etc.**
+- 🌱 I’m currently learning **Data Mining, DAA etc.**
 
 - 📫 How to reach me **kakadiyayash77@gmail.com .**
 
