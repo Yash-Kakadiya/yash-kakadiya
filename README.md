@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Yash-Kakadiya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=37BCF6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Yash+Kakadiya+👋;Student+of+Computer+Science+%26+Engineering;Data+Science+%26+AI+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=37BCF6&center=true&vCenter=true&width=800&lines=Hi+there%2C+I%27m+Yash+Kakadiya+%F0%9F%91%8B;Student+of+Computer+Science+%26+Engineering;Data+Science+%26+AI+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -91,11 +91,6 @@
 </div>
 
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator" width="100%" />
-</div>
-
 <div align="center">
   <h3>🔥 GitHub Stats</h3>
   <br/>
@@ -123,11 +118,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator" width="100%" />
 </div>
 
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator" width="100%" />
-</div>
 
 <div align="center">
   <h3>🤝 Connect With Me</h3>
