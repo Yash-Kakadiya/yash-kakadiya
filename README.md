@@ -36,7 +36,7 @@
   <b>🤖 AI / ML & Data Science</b><br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python & PyTorch" />
-  </a><br/><br/>
+  </a><br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
@@ -50,21 +50,21 @@
   <img src="https://img.shields.io/badge/GitHub_Copilot-121011?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
   <img src="https://img.shields.io/badge/Antigravity-121011?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
 
-  <br/><br/><br/>
+  <br/><br/>
   
   <b>💻 Programming & Mobile</b><br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,flutter,dart&theme=dark" alt="Programming & Mobile" />
   </a>
   
-  <br/><br/><br/>
+  <br/><br/>
   
   <b>🌐 Web Development</b><br/><br/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <br/><br/>
+  <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,tailwind,flask,vite&theme=dark" alt="Web Dev" />
-  </a><br/><br/>
+  </a><br/>
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
@@ -72,12 +72,12 @@
   <img src="https://img.shields.io/badge/Lucide_React-F24E1E?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide React" />
   <img src="https://img.shields.io/badge/FluentValidation-8C4FFF?style=for-the-badge&logo=nuget&logoColor=white" alt="FluentValidation" />
 
-  <br/><br/><br/>
+  <br/><br/>
   
   <b>🗄️ Database, Cloud & Other Tools</b><br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,firebase,gcp,docker,vscode,postman,git,github&theme=dark" alt="DB and Tools" />
-  </a><br/><br/>
+  </a><br/>
   <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="MS Office" />
