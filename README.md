@@ -50,14 +50,14 @@
   <img src="https://img.shields.io/badge/GitHub_Copilot-121011?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
   <img src="https://img.shields.io/badge/Antigravity-121011?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
 
-  <br/><br/>
+  <br/>
   
   <b>💻 Programming & Mobile</b><br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,flutter,dart&theme=dark" alt="Programming & Mobile" />
   </a>
   
-  <br/><br/>
+  <br/>
   
   <b>🌐 Web Development</b><br/><br/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/Lucide_React-F24E1E?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide React" />
   <img src="https://img.shields.io/badge/FluentValidation-8C4FFF?style=for-the-badge&logo=nuget&logoColor=white" alt="FluentValidation" />
 
-  <br/><br/>
+  <br/>
   
   <b>🗄️ Database, Cloud & Other Tools</b><br/><br/>
   <a href="https://skillicons.dev">
