@@ -1,121 +1,151 @@
-<h1 align="center">Hi 👋, I'm Yash Kakadiya</h1>
+<div align="center">
+  <a href="https://github.com/Yash-Kakadiya">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=37BCF6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Yash+Kakadiya+👋;Student+of+Computer+Science+%26+Engineering;Data+Science+%26+AI+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-
-<h3 align="left">🚀 About Me</h3>
-
-- 👨‍💻 A Student of Computer Science & Engineering
-
-- 🧑‍🎓 I’m currently studying at **Darshan University**
-
-- 🌱 I’m currently learning **Data Mining, DAA etc.**
-
-- 📫 How to reach me **kakadiyayash77@gmail.com .**
-
-- ⚡ Fun fact: **Why do programmers prefer dark mode ? Because light attracts Bugs!🐞**
-
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-
-###
-
-
-<img src="./doom X ironman.gif" alt="Dr.Doom X Ironman" height="200px" align="right">
-
-###
-<br />
-
-<h3 align="left">🛠️ Languages and Tools</h3>
-<p align="left">
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                        width="40" height="40" /> </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-                        alt="java" width="40" height="40" /> </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                        alt="html5" width="40" height="40" /> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                        alt="css3" width="40" height="40" /> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                        alt="bootstrap" width="40" height="40" /> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                        alt="javascript" width="40" height="40" /> </a>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                        alt="nodejs" width="40" height="40" /> </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                        alt="react" width="40" height="40" /> </a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                        alt="express" width="40" height="40" /> </a>
-        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img
-                        src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
-                        height="40" /> </a>
-        <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
-                        src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40"
-                        height="40" /> </a>
-        <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
-                        height="40" /> </a>
-        <!-- <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
-            height="40" /> </a> -->
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                        alt="mongodb" width="40" height="40" /> </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                        alt="python" width="40" height="40" /> </a>
-</p>
-
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-<br />
-
-<h3 align="left">🤝 Connect with me</h3>
-<p align="left">
-        <a href="mailto:kakadiyayash77@gmail.com">
-                <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-        </a>
-<!--         <a href="https://t.me/yash_01_12" target="blank"><svg alt="@yash_01_12" height="30" width="40"
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewBox="0 0 496 512"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
-<!--                         <path
-                                d="M248 8C111 8 0 119 0 256S111 504 248 504 496 393 496 256 385 8 248 8zM363 176.7c-3.7 39.2-19.9 134.4-28.1 178.3-3.5 18.6-10.3 24.8-16.9 25.4-14.4 1.3-25.3-9.5-39.3-18.7-21.8-14.3-34.2-23.2-55.3-37.2-24.5-16.1-8.6-25 5.3-39.5 3.7-3.8 67.1-61.5 68.3-66.7 .2-.7 .3-3.1-1.2-4.4s-3.6-.8-5.1-.5q-3.3 .7-104.6 69.1-14.8 10.2-26.9 9.9c-8.9-.2-25.9-5-38.6-9.1-15.5-5-27.9-7.7-26.8-16.3q.8-6.7 18.5-13.7 108.4-47.2 144.6-62.3c68.9-28.6 83.2-33.6 92.5-33.8 2.1 0 6.6 .5 9.6 2.9a10.5 10.5 0 0 1 3.5 6.7A43.8 43.8 0 0 1 363 176.7z" />
-                </svg>
-        </a> -->
-        <a href="https://x.com/yash__8055" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-                        alt="imrsavaliya03" height="30" width="40" /></a>
-        <a href="https://www.instagram.com/yash_patel.8055" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                        alt="yash_patel.8055" height="30" width="40" /></a>
-</p>
-
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-<h3 align="left">🔥 My Stats </h3>
+<br/>
 
 <div align="center">
-        <img src="https://github-stats-alpha.vercel.app/api?username=Yash-Kakadiya&cc=141414&tc=37BCF6&ic=fff&bc=fa8900"
-                height="150" alt="github stats">
+  <img src="./doom X ironman.gif" alt="Dr.Doom X Ironman" width="280" align="right" style="border-radius: 15px; margin-left: 20px;">
+  
+  <div align="left">
+    <h3>🚀 About Me</h3>
+    <br/>
+    <p>
+      &nbsp;&nbsp;👨‍💻 A Student of Computer Science & Engineering<br/><br/>
+      &nbsp;&nbsp;🧑‍🎓 Currently studying at <b>Darshan University</b><br/><br/>
+      &nbsp;&nbsp;🌱 Learning <b>Data Mining, DAA, Deep Learning & Web Technologies</b><br/><br/>
+      &nbsp;&nbsp;📫 Reach me at <a href="mailto:kakadiyayash77@gmail.com"><b>kakadiyayash77@gmail.com</b></a><br/><br/>
+      &nbsp;&nbsp;⚡ Fun fact: <b>Why do programmers prefer dark mode? Because light attracts Bugs! 🐞</b>
+    </p>
+  </div>
+</div>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash-Kakadiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-                height="150" alt="languages graph" />
+<br clear="both"/>
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator" width="100%" />
 </div>
 
 <div align="center">
-        <img src="https://streak-stats.demolab.com?user=Yash-Kakadiya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
-                height="220" alt="streak graph" />
+  <h3>🛠️ Languages & Tools</h3>
+  <br/>
+  
+  <b>🤖 AI / ML & Data Science</b><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python & PyTorch" />
+  </a><br/><br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <br/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-121011?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/Antigravity-121011?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+
+  <br/><br/><br/>
+  
+  <b>💻 Programming & Mobile</b><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,flutter,dart&theme=dark" alt="Programming & Mobile" />
+  </a>
+  
+  <br/><br/><br/>
+  
+  <b>🌐 Web Development</b><br/><br/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,tailwind,flask,vite&theme=dark" alt="Web Dev" />
+  </a><br/><br/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/Lucide_React-F24E1E?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide React" />
+  <img src="https://img.shields.io/badge/FluentValidation-8C4FFF?style=for-the-badge&logo=nuget&logoColor=white" alt="FluentValidation" />
+
+  <br/><br/><br/>
+  
+  <b>🗄️ Database, Cloud & Other Tools</b><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,gcp,docker,vscode,postman,git,github&theme=dark" alt="DB and Tools" />
+  </a><br/><br/>
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="MS Office" />
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="Google Workspace" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator" width="100%" />
 </div>
 
 
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-<h3 align="left">📈 Contribution Graph</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Kakadiya&theme=react-dark&hide_border=true&area=true"
-        width="100%">
-        
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator" width="100%" />
+</div>
+
+<div align="center">
+  <h3>🔥 GitHub Stats</h3>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Kakadiya&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="195" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash-Kakadiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true" height="195" alt="languages graph" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Yash-Kakadiya&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=4.1&order=3" height="220" alt="streak graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator" width="100%" />
+</div>
+
+<div align="center">
+  <h3>📈 Contribution Activity</h3>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Kakadiya&theme=react-dark&hide_border=true&area=true" width="100%" alt="contribution graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator" width="100%" />
+</div>
+
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator" width="100%" />
+</div>
+
+<div align="center">
+  <h3>🤝 Connect With Me</h3>
+  <br/>
+  <a href="https://t.me/yash_patel_8055"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:kakadiyayash77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/yash-kakadiya-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/yash__8055"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Programming Quote" />
+  </a>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=37BCF6&height=120&section=footer" width="100%"/>
