@@ -94,8 +94,8 @@
 <div align="center">
   <h3>🔥 GitHub Stats</h3>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-Kakadiya&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="195" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash-Kakadiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true" height="195" alt="languages graph" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=Yash-Kakadiya&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="195" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yash-Kakadiya&layout=compact&theme=transparent&hide_border=true" height="195" alt="languages graph" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Yash-Kakadiya&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=4.1&order=3" height="220" alt="streak graph" />
 </div>
