@@ -39,6 +39,7 @@
   </a><br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/langchain-013243?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
@@ -54,7 +55,7 @@
   
   <b>💻 Programming & Mobile</b><br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,flutter,dart&theme=dark" alt="Programming & Mobile" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,flutter,dart&theme=dark" alt="Programming & Mobile" />
   </a>
   
   <br/>
