@@ -16,7 +16,7 @@
       &nbsp;&nbsp;👨‍💻 A Student of Computer Science & Engineering<br/><br/>
       &nbsp;&nbsp;🧑‍🎓 Currently studying at <b>Darshan University</b><br/><br/>
       &nbsp;&nbsp;🌱 Learning <b>Data Mining, DAA, Deep Learning & Web Technologies</b><br/><br/>
-      &nbsp;&nbsp;📫 Reach me at <a href="mailto:kakadiyayash77@gmail.com"><b>kakadiyayash77@gmail.com</b></a><br/><br/>
+      &nbsp;&nbsp;📫 Reach me at <a href="mailto:yash.kakadiya.1125@gmail.com"><b>kakadiyayash77@gmail.com</b></a><br/><br/>
       &nbsp;&nbsp;⚡ Fun fact: <b>Why do programmers prefer dark mode? Because light attracts Bugs! 🐞</b>
     </p>
   </div>
